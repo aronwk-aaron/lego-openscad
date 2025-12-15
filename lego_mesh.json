@@ -1,0 +1,14 @@
+{
+    "parameterSets": {
+        "design default values": {
+            "hole_size": "6",
+            "mesh_cols": "30",
+            "mesh_rows": "30",
+            "mesh_thickness": "0.5",
+            "stud_diameter": "4.9",
+            "stud_spacing": "8",
+            "wall_thickness": "1.5"
+        }
+    },
+    "fileFormatVersion": "1"
+}
